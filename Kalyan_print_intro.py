@@ -55,7 +55,7 @@ Language
 '''
 
 
-# To work with multipul linese
+# To work with multipul lines
 # print('''Hello
 # Python Programming
 # Language''')
